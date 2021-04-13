@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\02_Nums_1_10\bin\Debug\netcoreapp3.1\02_Nums_1_10.exe
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\02_Nums_1_10\bin\Debug\netcoreapp3.1\02_Nums_1_10.deps.json
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\02_Nums_1_10\bin\Debug\netcoreapp3.1\02_Nums_1_10.runtimeconfig.json
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\02_Nums_1_10\bin\Debug\netcoreapp3.1\02_Nums_1_10.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\02_Nums_1_10\bin\Debug\netcoreapp3.1\02_Nums_1_10.dll
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\02_Nums_1_10\bin\Debug\netcoreapp3.1\02_Nums_1_10.pdb
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\02_Nums_1_10\obj\Debug\netcoreapp3.1\02_Nums_1_10.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\02_Nums_1_10\obj\Debug\netcoreapp3.1\02_Nums_1_10.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\02_Nums_1_10\obj\Debug\netcoreapp3.1\02_Nums_1_10.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\02_Nums_1_10\obj\Debug\netcoreapp3.1\02_Nums_1_10.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\02_Nums_1_10\obj\Debug\netcoreapp3.1\02_Nums_1_10.dll
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\02_Nums_1_10\obj\Debug\netcoreapp3.1\02_Nums_1_10.pdb
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\02_Nums_1_10\obj\Debug\netcoreapp3.1\02_Nums_1_10.genruntimeconfig.cache

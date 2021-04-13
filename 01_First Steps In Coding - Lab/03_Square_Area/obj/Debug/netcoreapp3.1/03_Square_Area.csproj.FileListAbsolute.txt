@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\03_Square_Area\bin\Debug\netcoreapp3.1\03_Square_Area.exe
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\03_Square_Area\bin\Debug\netcoreapp3.1\03_Square_Area.deps.json
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\03_Square_Area\bin\Debug\netcoreapp3.1\03_Square_Area.runtimeconfig.json
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\03_Square_Area\bin\Debug\netcoreapp3.1\03_Square_Area.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\03_Square_Area\bin\Debug\netcoreapp3.1\03_Square_Area.dll
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\03_Square_Area\bin\Debug\netcoreapp3.1\03_Square_Area.pdb
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\03_Square_Area\obj\Debug\netcoreapp3.1\03_Square_Area.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\03_Square_Area\obj\Debug\netcoreapp3.1\03_Square_Area.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\03_Square_Area\obj\Debug\netcoreapp3.1\03_Square_Area.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\03_Square_Area\obj\Debug\netcoreapp3.1\03_Square_Area.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\03_Square_Area\obj\Debug\netcoreapp3.1\03_Square_Area.dll
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\03_Square_Area\obj\Debug\netcoreapp3.1\03_Square_Area.pdb
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\03_Square_Area\obj\Debug\netcoreapp3.1\03_Square_Area.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\01_Hello_SoftUni\bin\Debug\netcoreapp3.1\01_Hello_SoftUni.exe
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\01_Hello_SoftUni\bin\Debug\netcoreapp3.1\01_Hello_SoftUni.deps.json
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\01_Hello_SoftUni\bin\Debug\netcoreapp3.1\01_Hello_SoftUni.runtimeconfig.json
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\01_Hello_SoftUni\bin\Debug\netcoreapp3.1\01_Hello_SoftUni.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\01_Hello_SoftUni\bin\Debug\netcoreapp3.1\01_Hello_SoftUni.dll
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\01_Hello_SoftUni\bin\Debug\netcoreapp3.1\01_Hello_SoftUni.pdb
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\01_Hello_SoftUni\obj\Debug\netcoreapp3.1\01_Hello_SoftUni.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\01_Hello_SoftUni\obj\Debug\netcoreapp3.1\01_Hello_SoftUni.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\01_Hello_SoftUni\obj\Debug\netcoreapp3.1\01_Hello_SoftUni.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\01_Hello_SoftUni\obj\Debug\netcoreapp3.1\01_Hello_SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\01_Hello_SoftUni\obj\Debug\netcoreapp3.1\01_Hello_SoftUni.dll
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\01_Hello_SoftUni\obj\Debug\netcoreapp3.1\01_Hello_SoftUni.pdb
+C:\Users\lenovo\source\repos\First_Steps_In_Coding_Lab\01_Hello_SoftUni\obj\Debug\netcoreapp3.1\01_Hello_SoftUni.genruntimeconfig.cache
